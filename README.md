@@ -36,7 +36,7 @@ output/                                           # Results and logs
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/face-recognition-deepfake-detection.git
+git clone (https://github.com/shiv4nsh77/face-recognition-and-deepfake-detection)
 cd face-recognition-deepfake-detection
 ```
 
@@ -66,7 +66,7 @@ Use Jupyter Notebook or JupyterLab to open and run `face_recognisation_and_deepf
 
 ## Results
 
-- Accuracy: XX% (Recognition), YY% (Deepfake detection)
+- Accuracy: 90% (Recognition), 70% (Deepfake detection)
 - Confusion matrices and performance metrics are available in the notebook output.
 
 ## Contributing
